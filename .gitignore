@@ -2,3 +2,4 @@
 __pycache__/
 .ipynb_checkpoints/
 01-mini-gpt/data/
+01-mini-gpt/models/
